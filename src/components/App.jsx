@@ -18,7 +18,7 @@ function App() {
   return (
     <>
       <NavBar/>
-      <h1>Welcome to My_DIYs!</h1>
+      <h1 class = "welcomeText" >Welcome to My_DIYs!</h1>
       <Outlet/>
     </>
   )
