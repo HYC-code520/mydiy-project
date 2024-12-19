@@ -17,6 +17,7 @@ function App() {
 
   return (
     <>
+      <NavBar/>
       <h1>Welcome to My_DIYs!</h1>
       <Outlet/>
     </>
